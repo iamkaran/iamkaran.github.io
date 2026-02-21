@@ -1,0 +1,35 @@
+baseURL: "https://iamkaran.github.io/"
+title: "DevLogs"
+theme: "PaperMod"
+
+params:
+  defaultTheme: auto
+  disableThemeToggle: false
+
+  profileMode:
+    enabled: true
+    title: "Hi, I’m Karanveer Singh ‍💻"
+    subtitle: "Linux-heavy builder • C/Python/Go • IIoT systems"
+    imageUrl: "/img/avatar.jpg"
+    imageWidth: 140
+    imageHeight: 140
+    imageTitle: "Karanveer"
+    buttons:
+      - name: Blog
+        url: "/posts/"
+      - name: $whoami
+        url: "/posts/whoami/"
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/iamkaran"
+    - name: x
+      url: "https://x.com/krnxmid"
+    - name: email
+      url: "mailto:kforkaranveer@gmail.com"
+
+menu:
+  main:
+    - name: Blog
+      url: /posts/
+      weight: 1

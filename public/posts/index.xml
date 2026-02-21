@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on DevLogs</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on DevLogs</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/nixos---my-daily-driver/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/nixos---my-daily-driver/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>[citadel@nixos:~]$ whoami</title>
+      <link>http://localhost:1313/posts/whoami/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/whoami/</guid>
+      <description>&lt;p&gt;Hi, I’m Karanveer.&lt;/p&gt;
+&lt;p&gt;I build practical software and systems—mostly in C, Python, and Go—and I like working close to how things actually run.&lt;/p&gt;
+&lt;p&gt;I’ve shipped IIoT projects such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Production Monitoring System&lt;/li&gt;
+&lt;li&gt;Energy Monitoring System&lt;/li&gt;
+&lt;li&gt;Engine Hot Bed Monitoring System&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I’m into:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;clean tooling and reproducible setups&lt;/li&gt;
+&lt;li&gt;low-level and networking projects&lt;/li&gt;
+&lt;li&gt;embedded/PLCs when software meets real machines&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I care about reliability, observability, and shipping.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
