@@ -1,1 +1,4 @@
-content/posts/.obsidian
+/content/posts/.obsidian
+/public/
+/resources/
+/.hugo_build.lock
