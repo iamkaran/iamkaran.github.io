@@ -1,0 +1,27 @@
+html, body {
+  background-image: url('/img/background.jpg') !important;
+  background-size: cover !important;
+  background-attachment: fixed !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+  background-color: transparent !important;
+}
+
+:root {
+  --theme: transparent !important;
+}
+
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4x);
+  z-index: 0;
+}
+
+#top, header, .header, nav, .nav, .buttons, .button {
+  position: relative;
+  z-index: 10;
+}
