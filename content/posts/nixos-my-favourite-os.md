@@ -1,7 +1,7 @@
 ---
 title: "the end of distro hopping"
 date: 2026-03-06
-tags: ["linux", "nix2026-03-06"]
+tags: ["linux", "nix"]
 description: "Sharing my experiences with NixOS"
 ---
 
