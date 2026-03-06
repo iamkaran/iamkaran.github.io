@@ -1,6 +1,8 @@
 ---
 title: "the end of distro hopping"
-date: 06-3-2026
+date: 2026-03-06
+tags: ["linux", "nix2026-03-06"]
+description: "Sharing my experiences with NixOS"
 ---
 
 so i recently made the best decision in months which was finally stop distro-hopping (even though i didnt but i was never happy with ubuntu) and stick with one and only - NixOS
