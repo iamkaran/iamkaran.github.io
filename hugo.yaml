@@ -17,7 +17,7 @@ params:
     buttons:
       - name: Blog
         url: "/posts/"
-      - name: $whoami
+      - name: $ whoami
         url: "/posts/whoami/"
 
   socialIcons:
