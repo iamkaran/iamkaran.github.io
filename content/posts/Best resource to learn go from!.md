@@ -6,6 +6,7 @@ tags:
   - programming
 description: When learning Go for software programming here is the resource i would pick
 ---
+![[Pasted image 20260311232545.png]]
 ## Why i like Go
 
 So if you don't know i like *Go* the programming language made by google. It's Fast, reliable and perfectly fits my use case which is building on the backend side and middleware's and most importantly -- general scripts that require any form of API interaction.
