@@ -1,11 +1,11 @@
 ---
 title: I found my old KinCony smart controller!
-date: 2026-03-06
+date: 2026-03-11
 tags:
   - iot
 description: planning what to do with the KC868
 ---
-So i wasnt expecting to find this board today as i totally forgot about it
+So i wasn't expecting to find this board today as i totally forgot about it
 
 
 But i found it and surprisingly good condition and since my vacations are going on, i think its a much better project to undertake than some http server or something

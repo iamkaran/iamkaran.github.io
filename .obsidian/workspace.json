@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2e23b0f0a3165496",
+        "id": "d09fb7cb1d31d69d",
         "type": "tabs",
         "children": [
           {
-            "id": "2aad1b1de18f5b8a",
+            "id": "b9e94d57ed67765f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/I found my old KinCony smart controller!.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "I found my old KinCony smart controller!"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/I found my old KinCony smart controller!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for I found my old KinCony smart controller!"
+              "title": "Backlinks"
             }
           },
           {
@@ -165,7 +160,8 @@
               "title": "Outline of I found my old KinCony smart controller!"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -183,10 +179,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "2aad1b1de18f5b8a",
+  "active": "b9e94d57ed67765f",
   "lastOpenFiles": [
+    "update.sh~",
+    "update.sh",
     "content/posts/nixos-my-favourite-os.md",
+    "content/posts/Best resource to learn go from!.md",
+    "Blog Post.md",
+    "README.md",
+    "2026-03-11.md",
+    "2026-03-06.md",
     "content/posts/I found my old KinCony smart controller!.md",
-    "content/posts/whoami.md"
+    "content/posts/whoami.md",
+    "content/posts/Untitled.md"
   ]
 }
