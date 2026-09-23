@@ -1,5 +1,5 @@
 +++
-title = "[REDACTED]"
+title = "FastMQ"
 date = 2026-05-29T18:34:51+05:30
 draft = false
 tags = ["go", "lgtm"]
