@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Linux on karan&#39;s devlogs</title>
+		<link>http://localhost:1313/tags/linux/</link>
+		<description>Recent content in Linux on karan&#39;s devlogs</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 27 May 2026 18:28:44 +0530</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Nixos Disaster*</title>
+				<link>http://localhost:1313/blog/nixos-disastor-asterisk/</link>
+				<pubDate>Wed, 27 May 2026 18:28:44 +0530</pubDate>
+				<guid>http://localhost:1313/blog/nixos-disastor-asterisk/</guid>
+				<description>&lt;p&gt;I have been using NixOS for like 6 months now, and that distro itch hit me&lt;/p&gt;&#xA;&lt;h1 id=&#34;switched-to-debian&#34; class=&#34; mt-8 mb-3 text-2xl sm:text-3xl text-white&#34;&gt;&#xA;    &lt;span class=&#34;relative inline-block&#34;&gt;&#xA;      Switched to Debian&#xA;      &lt;span&#xA;        class=&#34;absolute left-0 -bottom-1 h-px w-0 bg-indigo-400&#34;&gt;&lt;/span&gt;&#xA;    &lt;/span&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;I thought &amp;ldquo;i am a programmer and i like stable things.&amp;rdquo; but i don&amp;rsquo;t think debian was something i would want to use after the two days i spent using and of which 90% was just setting things up&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

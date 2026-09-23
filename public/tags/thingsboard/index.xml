@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Thingsboard on karan&#39;s devlogs</title>
+		<link>http://localhost:1313/tags/thingsboard/</link>
+		<description>Recent content in Thingsboard on karan&#39;s devlogs</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 29 May 2026 18:34:51 +0530</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/thingsboard/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Energy Management System</title>
+				<link>http://localhost:1313/projects/ems/</link>
+				<pubDate>Fri, 29 May 2026 18:34:51 +0530</pubDate>
+				<guid>http://localhost:1313/projects/ems/</guid>
+				<description>Predictive maintenance, involving 200+ MFM meters, aggregated reports</description>
+			</item>
+			<item>
+				<title>Engine hot bed testing</title>
+				<link>http://localhost:1313/projects/engine_hot_bed_testing/</link>
+				<pubDate>Fri, 29 May 2026 18:34:51 +0530</pubDate>
+				<guid>http://localhost:1313/projects/engine_hot_bed_testing/</guid>
+				<description>Engine tests visualization, conditional alarms, real time dashboard</description>
+			</item>
+			<item>
+				<title>Production Management System</title>
+				<link>http://localhost:1313/projects/pms/</link>
+				<pubDate>Fri, 29 May 2026 18:34:51 +0530</pubDate>
+				<guid>http://localhost:1313/projects/pms/</guid>
+				<description>Andon station based PMS system, with OEE% and other KPI metrics monitoring dashboard</description>
+			</item>
+			<item>
+				<title>tb-override</title>
+				<link>http://localhost:1313/projects/tb-override/</link>
+				<pubDate>Fri, 29 May 2026 18:13:05 +0530</pubDate>
+				<guid>http://localhost:1313/projects/tb-override/</guid>
+				<description>White labeling for ThingsBoard CE for free. Say goodbye to 100$ Professional Edition!</description>
+			</item>
+	</channel>
+</rss>

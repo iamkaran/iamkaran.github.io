@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Go on karan&#39;s devlogs</title>
+		<link>http://localhost:1313/tags/go/</link>
+		<description>Recent content in Go on karan&#39;s devlogs</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 29 May 2026 18:34:51 +0530</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/go/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>[REDACTED]</title>
+				<link>http://localhost:1313/projects/fastmq/</link>
+				<pubDate>Fri, 29 May 2026 18:34:51 +0530</pubDate>
+				<guid>http://localhost:1313/projects/fastmq/</guid>
+				<description>A IIoT Telemetry message broker and message stream processer that sits between ThingsBoard and tb-gateway allowing complex bi-directional-calculation on the fly</description>
+			</item>
+			<item>
+				<title>Energy Management System</title>
+				<link>http://localhost:1313/projects/ems/</link>
+				<pubDate>Fri, 29 May 2026 18:34:51 +0530</pubDate>
+				<guid>http://localhost:1313/projects/ems/</guid>
+				<description>Predictive maintenance, involving 200+ MFM meters, aggregated reports</description>
+			</item>
+			<item>
+				<title>Production Management System</title>
+				<link>http://localhost:1313/projects/pms/</link>
+				<pubDate>Fri, 29 May 2026 18:34:51 +0530</pubDate>
+				<guid>http://localhost:1313/projects/pms/</guid>
+				<description>Andon station based PMS system, with OEE% and other KPI metrics monitoring dashboard</description>
+			</item>
+			<item>
+				<title>tb-override</title>
+				<link>http://localhost:1313/projects/tb-override/</link>
+				<pubDate>Fri, 29 May 2026 18:13:05 +0530</pubDate>
+				<guid>http://localhost:1313/projects/tb-override/</guid>
+				<description>White labeling for ThingsBoard CE for free. Say goodbye to 100$ Professional Edition!</description>
+			</item>
+	</channel>
+</rss>
