@@ -15,7 +15,7 @@ theme = "enervoid"
     weight = 30
 
 [params]
-  avatar = "https://avatars.githubusercontent.com/u/174041592?v=4"
+  avatar = "profile.jpg"
 
   [[params.socials]]
       link = "https://github.com/iamkaran"

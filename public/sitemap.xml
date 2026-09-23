@@ -17,9 +17,6 @@
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-06-03T12:29:52+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/fastmq/</loc>
-    <lastmod>2026-05-29T18:34:51+05:30</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/emqx/</loc>
     <lastmod>2026-05-29T18:34:51+05:30</lastmod>
   </url><url>
@@ -27,6 +24,9 @@
     <lastmod>2026-05-29T18:34:51+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/engine_hot_bed_testing/</loc>
+    <lastmod>2026-05-29T18:34:51+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/fastmq/</loc>
     <lastmod>2026-05-29T18:34:51+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/go/</loc>

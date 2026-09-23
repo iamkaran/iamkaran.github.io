@@ -21,13 +21,6 @@
 				<description>&lt;h1 id=&#34;ai---modern-day-drugs&#34; class=&#34; mt-8 mb-3 text-2xl sm:text-3xl text-white&#34;&gt;&#xA;    &lt;span class=&#34;relative inline-block&#34;&gt;&#xA;      AI - Modern day drugs&#xA;      &lt;span&#xA;        class=&#34;absolute left-0 -bottom-1 h-px w-0 bg-indigo-400&#34;&gt;&lt;/span&gt;&#xA;    &lt;/span&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;I remember being excited hearing about this mystical &amp;ldquo;Aritifical Intelligence&amp;rdquo;. And 6 years later it has done irreparable damage to the software engineering field&lt;/p&gt;&#xA;&lt;p&gt;i am sick and tired of seeing those purple-blueish themed websites with emojis and frosted elements.&lt;/p&gt;&#xA;&lt;h1 id=&#34;why-a-easy-entry-is-a-red-flag&#34; class=&#34; mt-8 mb-3 text-2xl sm:text-3xl text-white&#34;&gt;&#xA;    &lt;span class=&#34;relative inline-block&#34;&gt;&#xA;      Why a easy entry is a red flag&#xA;      &lt;span&#xA;        class=&#34;absolute left-0 -bottom-1 h-px w-0 bg-indigo-400&#34;&gt;&lt;/span&gt;&#xA;    &lt;/span&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;i remember reading in a book about how to choose a field to develop your business. the author talked about &lt;code&gt;Entry&lt;/code&gt; which said that the harder it is to get into a field, the more leverage it has&amp;hellip;&#xA;if everyone can do it, theres no need. if not everyone can do it, everyone needs it.&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>[REDACTED]</title>
-				<link>http://localhost:1313/projects/fastmq/</link>
-				<pubDate>Fri, 29 May 2026 18:34:51 +0530</pubDate>
-				<guid>http://localhost:1313/projects/fastmq/</guid>
-				<description>A IIoT Telemetry message broker and message stream processer that sits between ThingsBoard and tb-gateway allowing complex bi-directional-calculation on the fly</description>
-			</item>
-			<item>
 				<title>Energy Management System</title>
 				<link>http://localhost:1313/projects/ems/</link>
 				<pubDate>Fri, 29 May 2026 18:34:51 +0530</pubDate>
@@ -42,11 +35,18 @@
 				<description>Engine tests visualization, conditional alarms, real time dashboard</description>
 			</item>
 			<item>
+				<title>FastMQ</title>
+				<link>http://localhost:1313/projects/fastmq/</link>
+				<pubDate>Fri, 29 May 2026 18:34:51 +0530</pubDate>
+				<guid>http://localhost:1313/projects/fastmq/</guid>
+				<description>A IIoT Telemetry message broker and message stream processer that sits between ThingsBoard and tb-gateway allowing complex bi-directional-calculation on the fly</description>
+			</item>
+			<item>
 				<title>Production Management System</title>
 				<link>http://localhost:1313/projects/pms/</link>
 				<pubDate>Fri, 29 May 2026 18:34:51 +0530</pubDate>
 				<guid>http://localhost:1313/projects/pms/</guid>
-				<description>Andon station based PMS system, with OEE% and other KPI metrics monitoring dashboard</description>
+				<description>150+ andon station, PMS system, with OEE% and other KPI metrics monitoring dashboard</description>
 			</item>
 			<item>
 				<title>tb-override</title>
@@ -60,7 +60,7 @@
 				<link>http://localhost:1313/about/</link>
 				<pubDate>Wed, 27 May 2026 19:01:26 +0530</pubDate>
 				<guid>http://localhost:1313/about/</guid>
-				<description>&lt;p&gt;I’m a systems architect working in Industrial IoT, designing systems that connect hardware and software and building extreme-throughput applications.&lt;/p&gt;&#xA;&lt;p&gt;Outside work, I build open-source tools, tinker with my homelab, and contribute to projects when I can. I’ve been programming for around 8 years and enjoy reading.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Languages&lt;/strong&gt; Go, C&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tools&lt;/strong&gt; &lt;img style=&#34;display: inline-block; vertical-align: middle; margin: 0;&#34; src=&#34;https://github.com/iamkaran/iamkaran/blob/main/button.gif?raw=true&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&#xA;  alt=&#34;Powered by Void Linux&#34;&gt;, Neovim, tmux, Proxmox, SolidWorks&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;kforkaranveer [at] gmail [dot] com&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/iamkaran&#34;&gt;GitHub&lt;/a&gt; · &lt;a href=&#34;https://discord.com/users/947171005061816350&#34;&gt;Discord&lt;/a&gt;&lt;/p&gt;</description>
+				<description>&lt;p&gt;I’m a systems architect working in Industrial IoT, designing systems that connect hardware and software and building extreme-throughput applications.&lt;/p&gt;&#xA;&lt;p&gt;Outside work, I build open-source tools, tinker with my homelab, and contribute to projects when I can. I’ve been programming for around 8 years and enjoy reading.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Languages&lt;/strong&gt; Go, C&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tools&lt;/strong&gt; Void Linux, Neovim, tmux, Proxmox, SolidWorks&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;kforkaranveer [at] gmail [dot] com&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/iamkaran&#34;&gt;GitHub&lt;/a&gt; · &lt;a href=&#34;https://discord.com/users/947171005061816350&#34;&gt;Discord&lt;/a&gt;&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>
